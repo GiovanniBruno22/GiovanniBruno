@@ -9,7 +9,7 @@ My name is Giovanni, I am a software developer. I love new challenges and I am e
 # 💻 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c#,js,html,css,react,git,tensorflow,django,sqlite,mongodb,unreal,unity,vscode,eclipse,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,react,git,tensorflow,django,sqlite,mongodb,unreal,unity,vscode,eclipse,linux,postman" />
   </a>
 </p>
 
